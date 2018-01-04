@@ -16,4 +16,6 @@ This program take all the jpg files in a folder the user choose, search among th
 
 Since i'm not an expert in C# (as you probably will notice due to the slopiness of the code) we can conclude that those libraries are relativelly easy to use.
 
+
+
 Hope someone find this code usefull.
