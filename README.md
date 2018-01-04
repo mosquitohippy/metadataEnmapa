@@ -1,5 +1,6 @@
 # metadataEnmapa
 Pequeña aplicacion que obtiene las coordenadas desde la metadata de las fotos y las plasma en un mapa de google maps Tambien crea un archivo TXT con los nombres de los archivos y las coordenadas en ellos.
+
 Small App that extract coordinates from photo's metadata and then represent those coordinates in google maps.  Also creates a TXT file with the files names and the coordinates.
 
 C#
